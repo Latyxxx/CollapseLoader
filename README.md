@@ -6,6 +6,8 @@
 
 <h1 align="center"><a href="https://github.com/Latyxxx/CollapseLoader/releases/download/0.1.6/collapseloader_0.1.6.exe">DOWNLOAD</a></h1>
 
+<h1 align="center"><a href="https://www.virustotal.com/gui/file/81e24af1854a4af3db1ffcb9bda8a8457cefcdb50f4d54a3fc957707e7746334">VIRUSTOTAL</a></h1>
+
 <p align="center">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dest4590/CollapseLoader/build.yml?style=for-the-badge&logo=githubactions&logoColor=ffffff&color=%2382B155">
   <img alt="GitHub Pre-release" src="https://img.shields.io/github/v/release/dest4590/CollapseLoader?include_prereleases&display_name=tag&style=for-the-badge&logo=buffer&label=Prerelease">
