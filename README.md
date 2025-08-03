@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dest4590/CollapseLoader/build.yml?style=for-the-badge&logo=githubactions&logoColor=ffffff&color=%2382B155">
-  <a href="https://github.com/dest4590/CollapseLoader/releases/latest" target="_blank">
+  <a href="" target="_blank">
     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/dest4590/CollapseLoader?display_name=tag&style=for-the-badge&logo=alwaysdata&logoColor=ffffff">
   </a>
   <img alt="GitHub Pre-release" src="https://img.shields.io/github/v/release/dest4590/CollapseLoader?include_prereleases&display_name=tag&style=for-the-badge&logo=buffer&label=Prerelease">
