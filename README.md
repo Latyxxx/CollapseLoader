@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dest4590/CollapseLoader/build.yml?style=for-the-badge&logo=githubactions&logoColor=ffffff&color=%2382B155">
   <a href="" target="_blank">
-    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/dest4590/CollapseLoader?display_name=tag&style=for-the-badge&logo=alwaysdata&logoColor=ffffff">
+    <img alt="GitHub Release" src="[https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6]?display_name=tag&style=for-the-badge&logo=alwaysdata&logoColor=ffffff">
   </a>
   <img alt="GitHub Pre-release" src="https://img.shields.io/github/v/release/dest4590/CollapseLoader?include_prereleases&display_name=tag&style=for-the-badge&logo=buffer&label=Prerelease">
 </p>
@@ -15,7 +15,7 @@
 <h2 align="center">GUI Utility to Run Secure Minecraft Hacked Clients</h2>
 
 <p align="center">
-  Download the latest version from <a href="[https://github.com/dest4590/CollapseLoader/releases](https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6)">GitHub releases</a>.
+  Download the latest version from <a href="[https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6](https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6)">GitHub releases</a>.
 </p>
 
 ---
@@ -25,11 +25,9 @@
 CollapseLoader is an open-source GUI utility designed to securely launch Minecraft cheat clients on Windows and Linux. Built with Rust and Tauri, it prioritizes safety, transparency, and ease of use. Key features include:
 
 - **Secure Client Management**: Only thoroughly vetted clients are supported, ensuring a safe experience.
-- **Open-Source Transparency**: All code is available on [GitHub](https://github.com/dest4590/CollapseLoader) for community review.
+- **Open-Source Transparency**: All code is available on [GitHub](https://github.com/Latyxxx/CollapseLoader/) for community review.
 - **Cross-Platform Support**: Works seamlessly on Windows and Linux.
 - **Virus-Free Guarantee**: Every client and build is scanned for malware using advanced tools and VirusTotal.
-
-Join our [Discord community](https://collapseloader.org/discord) for support and updates!
 
 ---
 
@@ -40,7 +38,6 @@ CollapseLoader is designed with security as a top priority. Here’s why you can
 - **Fully Open-Source**: All components, including the launcher, API, and Discord bot, are available on [GitHub](https://github.com/CollapseLoader) for public auditing.
 - **Rigorous Client Verification**: Each client is tested using virtual machines, decompilers, debuggers, and VirusTotal to ensure it’s free of malware.
 - **No Obfuscation**: Clients with protectors like VMProtect or Themida are prohibited, and CollapseLoader’s code is free of obfuscation for full transparency.
-- **Automated Builds**: Built via GitHub Actions, ensuring reproducible and tamper-free releases. Download builds directly from [GitHub Actions](https://github.com/dest4590/CollapseLoader/actions).
 
 
 > **Note**: While CollapseLoader ensures maximum safety, always exercise caution with cheat clients, as they carry inherent risks. Download only from official sources.
