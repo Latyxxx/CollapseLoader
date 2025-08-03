@@ -4,6 +4,8 @@
 
 <h1 align="center">CollapseLoader</h1>
 
+<h1 align="center">DOWNLOAD</h1>
+
 <p align="center">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/dest4590/CollapseLoader/build.yml?style=for-the-badge&logo=githubactions&logoColor=ffffff&color=%2382B155">
   <a href="" target="_blank">
